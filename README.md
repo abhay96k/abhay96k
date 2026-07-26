@@ -35,11 +35,25 @@ Computer Science Student • Full Stack Developer • AI & Computer Vision Enthu
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://chatgpt.com">
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="ChatGPT"/>
+</a>
+
+<a href="https://gemini.google.com">
+  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" height="55" alt="Gemini"/>
+</a>
+
+<a href="https://claude.ai">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" height="55" alt="Claude"/>
+</a>
+
+<a href="https://antigravity.google.com">
+  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_1920px_9d3e0f8f5404d498.png" height="55" alt="Antigravity"/>
+</a>
+
+<a href="https://github.com/features/copilot">
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub Copilot"/>
+</a>
 
 </p>
 
