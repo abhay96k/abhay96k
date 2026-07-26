@@ -185,8 +185,6 @@ YOLO-powered football player detection, tracking, and real-time analytics.
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhay96k&label=Profile+Views&color=0e75b6&style=flat"/>
 
 ⭐ From <b>Abhay Chavan</b>
 </p>
