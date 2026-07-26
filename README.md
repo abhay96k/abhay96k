@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Abhay%20Chavan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Computer%20Vision&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,12,20,24&text=Abhay%20Chavan&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Computer%20Science%20and%20Engineering%20Student&descSize=22&descAlignY=58&animation=blink"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhay Chavan</h1>
