@@ -35,28 +35,19 @@ Computer Science Student • Full Stack Developer • AI & Computer Vision Enthu
 
 <p align="center">
 
-<a href="https://chatgpt.com">
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="ChatGPT"/>
-</a>
-
-<a href="https://gemini.google.com">
-  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" height="55" alt="Gemini"/>
-</a>
-
-<a href="https://claude.ai">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" height="55" alt="Claude"/>
-</a>
-
-<a href="https://antigravity.google.com">
-  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_1920px_9d3e0f8f5404d498.png" height="55" alt="Antigravity"/>
-</a>
-
-<a href="https://github.com/features/copilot">
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub Copilot"/>
-</a>
+<img src="https://skillicons.dev/icons?i=github,git,vscode,figma" />
 
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/🤖_ChatGPT-10A37F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✨_Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠_Claude-D97706?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Google_Antigravity-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐙_GitHub_Copilot-181717?style=for-the-badge"/>
+
+</p>
 ---
 
 # 💻 Tech Stack
