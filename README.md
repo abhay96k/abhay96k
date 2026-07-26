@@ -152,7 +152,7 @@ YOLO-powered football player detection, tracking, and real-time analytics.
 > **"Code • Learn • Build • Repeat 🚀"**
 
 ---
-
+# 🌐 Connect With Me
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=abhay96k&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
