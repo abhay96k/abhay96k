@@ -1,8 +1,19 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Abhay%20Chavan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Computer%20Vision&descAlignY=55"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Abhay Chavan</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer | AI & Computer Vision Enthusiast</h3>
+
+<h3 align="center">
+Computer Science Student • Full Stack Developer • AI & Computer Vision Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;Hackathon+Participant;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning;Computer+Vision+Developer;Google+Antigravity+Developer;Hackathon+Participant;Always+Learning+New+Things+🚀"/>
+</p>
+
+<p align="center">
+<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
 
 ---
@@ -17,6 +28,24 @@
 - ⚡ Love building real-world AI applications
 - 🚀 Building AI-powered Full Stack applications with Antigravity
 - 📫 Email: **abhaychavan672@gmail.com**
+
+---
+
+# 🤖 AI & Development Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenAI-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-Copilot-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
+
+</p>
 
 ---
 
@@ -86,16 +115,20 @@ YOLO-powered football player detection, tracking, and real-time analytics.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhay96k&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay96k&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhay96k&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay96k&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay96k&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay96k&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -112,7 +145,9 @@ YOLO-powered football player detection, tracking, and real-time analytics.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhay96k&theme=tokyonight&row=1&column=6"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhay96k&theme=algolia&no-frame=true&margin-w=15"/>
+
 </p>
 
 ---
@@ -120,14 +155,96 @@ YOLO-powered football player detection, tracking, and real-time analytics.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay96k&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay96k&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-# 💡 Quote
+---
 
-> **"Code. Learn. Build. Repeat." 🚀**
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🚀 Interests</h3>
+
+AI<br>
+Computer Vision<br>
+Machine Learning<br>
+Full Stack Development<br>
+Cloud Computing
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🏆 Goals</h3>
+
+Hackathons<br>
+Open Source<br>
+Google Antigravity<br>
+System Design<br>
+Building AI Products
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/abhay96k/abhay96k/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+> **Note:** You need to create the GitHub Action (`.github/workflows/snake.yml`) for this image to work.
+
+---
+
+# 💡 Favorite Quote
+
+> **"Code • Learn • Build • Repeat 🚀"**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abhay96k&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/abhay96k">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhay-chavan96/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:abhaychavan672@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
 
 ---
 
