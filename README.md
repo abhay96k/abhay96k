@@ -15,6 +15,7 @@
 - 🌱 Currently learning MERN Stack, Cloud & DevOps
 - 🏆 Hackathon Participant
 - ⚡ Love building real-world AI applications
+- 🚀 Building AI-powered Full Stack applications with Antigravity
 - 📫 Email: **abhaychavan672@gmail.com**
 
 ---
@@ -30,7 +31,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/abhay96k">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -67,7 +68,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
@@ -88,21 +89,30 @@ YOLO-powered football player detection, tracking, and real-time analytics.
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhay96k&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay96k&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay96k&theme=tokyonight"/>
 </p>
+
+---
+
+## 🚀 Current Focus
+
+- 🔭 Building Full Stack Web Applications
+- 🤖 Developing AI & Computer Vision Projects
+- ⚙️ Creating production-ready applications with Google Antigravity
+- 🌱 Learning Cloud, DevOps & System Design
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhay96k&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
@@ -110,7 +120,7 @@ YOLO-powered football player detection, tracking, and real-time analytics.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay96k&theme=tokyo-night"/>
 </p>
 
 ---
@@ -122,7 +132,7 @@ YOLO-powered football player detection, tracking, and real-time analytics.
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=abhay96k&label=Profile+Views&color=0e75b6&style=flat"/>
 
 ⭐ From <b>Abhay Chavan</b>
 </p>
