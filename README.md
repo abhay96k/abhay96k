@@ -184,18 +184,6 @@ Building AI Products
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/abhay96k/abhay96k/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-> **Note:** You need to create the GitHub Action (`.github/workflows/snake.yml`) for this image to work.
-
----
-
 # 💡 Favorite Quote
 
 > **"Code • Learn • Build • Repeat 🚀"**
