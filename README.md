@@ -147,46 +147,6 @@ YOLO-powered football player detection, tracking, and real-time analytics.
 
 ---
 
----
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
-<h3>🚀 Interests</h3>
-
-AI<br>
-Computer Vision<br>
-Machine Learning<br>
-Full Stack Development<br>
-Cloud Computing
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🏆 Goals</h3>
-
-Hackathons<br>
-Open Source<br>
-Google Antigravity<br>
-System Design<br>
-Building AI Products
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
 # 💡 Favorite Quote
 
 > **"Code • Learn • Build • Repeat 🚀"**
