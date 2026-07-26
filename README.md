@@ -49,24 +49,6 @@ Computer Science Student • Full Stack Developer • AI & Computer Vision Enthu
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/abhay-chavan96/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:abhaychavan672@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/abhay96k">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
 # 💻 Tech Stack
 
 ### Languages
@@ -238,6 +220,10 @@ Building AI Products
 
 <a href="mailto:abhaychavan672@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://instagram.com/abhay_chavan.96k" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
