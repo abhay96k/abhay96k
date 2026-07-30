@@ -2,8 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,12,20,24&text=Abhay%20Chavan&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Computer%20Science%20and%20Engineering%20Student&descSize=22&descAlignY=58&animation=blink"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Abhay Chavan</h1>
-
 <h3 align="center">
 Computer Science Student • Full Stack Developer • AI & Computer Vision Enthusiast
 </h3>
