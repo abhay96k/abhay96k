@@ -128,15 +128,6 @@ YOLO-powered football player detection, tracking, and real-time analytics.
 - ⚙️ Creating production-ready applications with Google Antigravity
 - 🌱 Learning Cloud, DevOps & System Design
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhay96k&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
 
 ---
 
